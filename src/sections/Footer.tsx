@@ -37,7 +37,7 @@ export function Footer() {
               <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
             </a>
             <a
-              href="mailto:rseshadri@amazon.com"
+              href="mailto:sanstorage@gmail.com"
               className="group inline-flex items-center gap-2 px-6 py-3 bg-white/5 hover:bg-white/10 border border-white/20 rounded-full text-white font-medium transition-all duration-300 hover:scale-105"
             >
               <Mail className="w-5 h-5" />
