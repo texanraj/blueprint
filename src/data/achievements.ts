@@ -8,7 +8,7 @@ export const achievements: Achievement[] = [
     icon: 'TrendingUp',
     metrics: [
       '$2M+ in pipeline generated',
-      'Ensono, New York Life, Bridgestone',
+      'Ex. Ensono, New York Life, Bridgestone, Qualys',
       'Agentic AI on Bedrock',
       'Mainframe Modernization'
     ]
@@ -64,7 +64,7 @@ export const skills: Skill[] = [
   },
   {
     category: 'Infrastructure as Code',
-    items: ['AWS CDK', 'Terraform', 'CloudFormation', 'AWS SAM'],
+    items: ['AWS CDK', 'Terraform', 'CloudFormation', 'Ansible(config)'],
     icon: 'Code'
   },
   {
