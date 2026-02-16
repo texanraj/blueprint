@@ -42,7 +42,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: [0.25, 0.46, 0.45, 0.94] }}
         >
           <p className="text-lg sm:text-xl md:text-2xl text-white/90 font-medium mb-3">
-            Senior Solutions Architect | AWS
+            Senior Solutions Architect | AWS | Aqua Security | RedHat | Dell
           </p>
         </motion.div>
 
