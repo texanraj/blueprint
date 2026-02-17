@@ -7,10 +7,10 @@ export const achievements: Achievement[] = [
     description: 'Driving enterprise transformation through strategic cloud adoption and AI implementation.',
     icon: 'TrendingUp',
     metrics: [
-      '$2M+ in pipeline generated',
-      'Ex. Ensono, New York Life, Bridgestone, Qualys',
-      'Agentic AI on Bedrock',
-      'Mainframe Modernization'
+      '$2M+ AWS-influenced pipeline across enterprise accounts',
+      'Enabled customers including Ensono, New York Life, Bridgestone, Qualys',
+      'Designed and delivered Agentic AI systems on Amazon Bedrock',
+      'Led mainframe modernization strategy initiatives'
     ]
   },
   {
@@ -19,10 +19,10 @@ export const achievements: Achievement[] = [
     description: 'Delivering world-class technical workshops with exceptional customer satisfaction.',
     icon: 'Users',
     metrics: [
-      '4.92/5.0 average CSAT',
-      'GenAI Workshops',
-      'EKS Auto Mode Workshops',
-      'Agentic AI Hands-on Lab development'
+      '4.92 / 5.0 CSAT across technical workshops',
+      'GenAI immersion sessions for enterprise leaders',
+      'Kubernetes & EKS architecture deep dives',
+      'Rapid design-to-POC execution models'
     ]
   },
   {
@@ -46,7 +46,7 @@ export const achievements: Achievement[] = [
       'TFC Gold Member Status',
       '30k+ Global Viewers',
       '11 Technical Blog Publications',
-      'Viral Technical Content on YT'
+      'Viral GenAI & Kubernetes content on YouTube'
     ]
   }
 ];
