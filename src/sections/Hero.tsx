@@ -42,7 +42,11 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: [0.25, 0.46, 0.45, 0.94] }}
         >
           <p className="text-lg sm:text-xl md:text-2xl text-white/90 font-medium mb-3">
-            Senior Solutions Architect | AWS | Aqua Security | RedHat | Dell
+            Forward-Deployed GenAI & Kubernetes Architect | AWS | Aqua Security | RedHat | Dell | EMC
+          </p>
+
+          <p className="text-lg sm:text-xl md:text-2xl text-white/90 font-medium mb-3">
+            Designing and operationalizing production agentic AI systems and secure cloud-native platforms that drive enterprise adoption and measurable revenue impact
           </p>
         </motion.div>
 
