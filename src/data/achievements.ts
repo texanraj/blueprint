@@ -54,7 +54,7 @@ export const achievements: Achievement[] = [
 export const skills: Skill[] = [
   {
     category: 'Generative AI',
-    items: ['Amazon Bedrock', 'Amazon Nova', 'Prompt Engineering', 'Agentic AI', 'RAG', 'SagemakerAI', 'Kiro'],
+    items: ['Amazon Bedrock', 'Amazon Nova', 'Prompt Engineering', 'Agentic AI', 'RAG', 'SagemakerAI', 'Kiro', 'OpenClaw'],
     icon: 'Brain'
   },
   {
@@ -69,7 +69,7 @@ export const skills: Skill[] = [
   },
   {
     category: 'Security',
-    items: ['KubeArmor', 'OPA', 'AWS Security Hub', 'Kyverno', 'Aqua/ Falco'],
+    items: ['KubeArmor', 'OPA', 'AWS Security Hub', 'Kyverno', 'Aqua/ Falco', 'AI-SPM'],
     icon: 'Shield'
   }
 ];
